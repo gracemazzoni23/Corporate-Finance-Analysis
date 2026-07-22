@@ -1,4 +1,7 @@
-## Datasets
+# Data
 
-Budget_vs_Actual_Data is the original dataset prior to any transformation. This dataset was found on Kaggle:
-https://www.kaggle.com/datasets/kennathalexanderroy/budget-vs-actual-financial-dataset?resource=download
+The original dataset used in this project was obtained from Kaggle.
+
+To comply with the dataset's license, the original source should be downloaded directly from Kaggle.
+
+The cleaned version included in this repository contains additional calculated fields created for analysis.
