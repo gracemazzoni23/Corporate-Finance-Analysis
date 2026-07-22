@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project demonstrates an end-to-end financial analytics workflow using SQL, Excel, and Power BI. The objective was to analyze corporate budget performance, identify departments with significant spending variances, and develop an executive dashboard to support data-driven financial decision-making.
+This project demonstrates a complete financial analytics workflow using SQL, Excel, and Power BI. The objective was to analyze corporate budget performance, identify departments with significant spending variances, and develop an executive dashboard to support financial decision making.
 
-The project follows a real-world Financial Planning & Analysis (FP&A) process, beginning with raw data preparation and ending with interactive business intelligence reporting.
+The project follows a real world Financial Planning & Analysis process, beginning with raw data preparation and ending with interactive business intelligence reporting.
 
 ---
 
@@ -26,7 +26,7 @@ This project provides an executive dashboard designed to answer these questions 
 - Clean and prepare financial data
 - Calculate key FP&A performance metrics
 - Analyze budget versus actual spending
-- Identify high-variance departments
+- Identify departments with high variance
 - Build an executive Power BI dashboard
 - Present actionable business recommendations
 
