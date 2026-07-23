@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a complete financial analytics workflow using SQL, Excel, and Power BI. The objective was to analyze corporate budget performance, identify departments with significant spending variances, and develop an executive dashboard to support financial decision making.
+In this project I built a financial analytics solution using SQL and Power BI to analyze budget performance and departmental spending. This project identifies unfavorable budget variances and analyzes expense trends while providing actionable recommendations to improve financial decision making.
 
 The project follows a real world Financial Planning & Analysis process, beginning with raw data preparation and ending with interactive business intelligence reporting.
 
@@ -10,23 +10,17 @@ The project follows a real world Financial Planning & Analysis process, beginnin
 
 ## Business Problem
 
-Organizations rely on accurate financial reporting to ensure departments remain within budget and resources are allocated efficiently. Leadership needed a centralized reporting solution to answer questions such as:
-
-- Which departments exceeded their allocated budgets?
-- How much did actual spending differ from planned spending?
-- Which areas contribute most to unfavorable budget variances?
-- How are spending trends changing over time?
-
-This project provides an executive dashboard designed to answer these questions quickly and clearly.
+Leadership identified concerns regarding increasing operating expenses and inconsistent budget performance across departments. Although overall financial activity remained stable, decision-makers lacked understanding into where overspending was occurring and which areas required additional financial attention.
 
 ---
 
 ## Objectives
 
-- Clean and prepare financial data
-- Calculate key FP&A performance metrics
-- Analyze budget versus actual spending
-- Identify departments with high variance
+- Compare actual spending against planned budgets.
+- Identify departments with significant budget variances.
+- Analyze expense trends over time.
+- Determine the primary contributors to cost increases.
+- Develop recommendations for improving financial efficiency.
 - Build an executive Power BI dashboard
 - Present actionable business recommendations
 
@@ -44,7 +38,7 @@ The dataset was enhanced with additional calculated fields to support business a
 - Fiscal Quarter
 - Fiscal Year
 - Budget Status
-- Variance Category
+- Profitability Status
 
 ---
 
